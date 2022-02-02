@@ -4,7 +4,7 @@ forwards:
   - -1001493034047
   end: null
   offset: 0
-  source: -1001533796151
+  source: -1001045139918
 live:
   delete_on_edit: null
   delete_sync: false
@@ -17,5 +17,4 @@ plugins:
       - audio
       - video
       - document
-      - photo
 show_forwarded_from: false
